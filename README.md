@@ -43,7 +43,6 @@ Lightweight multilingual news aggregator built with React + Vite. Supports 13 In
 
 ### 🔧 VS Code Extension — CSS Duplicate Detector & Merger
 [![GitHub](https://img.shields.io/badge/GitHub-cssduplicatedetectorandmerger-blue?logo=github)](https://github.com/balakrishnanbsk/cssduplicatedetectorandmerger)
-
 A Visual Studio Code extension that scans CSS files for duplicate selectors and properties, helping developers maintain cleaner, DRY stylesheets.
 - 🔍 Detects duplicate CSS selectors and rules across files
 - 🔀 Merges redundant declarations automatically
