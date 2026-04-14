@@ -70,3 +70,9 @@ A Visual Studio Code extension that scans CSS files for duplicate selectors and 
 ---
 
 📍 Chennai, India &nbsp;·&nbsp; 💼 [linkedin.com/in/balakrishnanbsk](https://linkedin.com/in/balakrishnanbsk)
+
+---
+
+💡 All the projects showcased here are open-source contributions built during my free time.  
+💻 Developed independently using my personal laptop, outside of professional work.  
+🚀 Driven by curiosity, real-world problem solving, and passion for development.
