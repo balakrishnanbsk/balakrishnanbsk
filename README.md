@@ -65,7 +65,7 @@ A Visual Studio Code extension that scans CSS files for duplicate selectors and 
 
 ## 📊 GitHub Stats
 
-![Balakrishnan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=balakrishnanbsk&show_icons=true&hide_border=true&theme=default](https://github-readme-stats-sigma-five.vercel.app/api?username=balakrishnanbsk&show_icons=true))
+![Balakrishnan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=balakrishnanbsk&show_icons=true)
 
 ---
 
