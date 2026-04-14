@@ -41,8 +41,7 @@ Dual Node.js & Python toolset to extract HEX, RGB, HSL, and named colors from co
 Lightweight multilingual news aggregator built with React + Vite. Supports 13 Indian languages, dark mode, and 7 theme colors powered by Google News RSS feeds.
 `React` `Vite` `Multilingual`
 
-### 🔧 VS Code Extension — CSS Duplicate Detector & Merger
-[![GitHub](https://img.shields.io/badge/GitHub-cssduplicatedetectorandmerger-blue?logo=github)](https://github.com/balakrishnanbsk/cssduplicatedetectorandmerger)
+### [VS Code Extension — CSS Duplicate Detector & Merger](https://github.com/balakrishnanbsk/cssduplicatedetectorandmerger)
 A Visual Studio Code extension that scans CSS files for duplicate selectors and properties, helping developers maintain cleaner, DRY stylesheets.
 - 🔍 Detects duplicate CSS selectors and rules across files
 - 🔀 Merges redundant declarations automatically
