@@ -12,6 +12,13 @@ I'm a frontend developer specializing in building scalable, high-performance web
 
 Working on Zoho's suite of SaaS products, focusing on scalable UI architecture, performance optimization, and modern frontend development. Contributed to products across the Zoho ecosystem serving enterprise customers globally.
 
+
+### Meye Management and Services - Software Developer · 2 years
+Built full-stack web & hybrid mobile apps (Angular, Ionic 3); 2 apps published on Google Play & App Store.
+Integrated Razorpay payments & automated PDF generation using Laravel/PHP.
+Implemented modern & classic UI skins in DevExpress for Analyst Golden Eye dashboard.
+Developed REST APIs & backend modules in Laravel/PHP for core business logic.
+
 **Stack:** React · JavaScript · TypeScript · HTML/CSS · Performance Optimization · UI Architecture
 
 ---
